@@ -32,7 +32,7 @@ outputs:
       plot_footprint_values: false
       force_plot_invisible_refs_vals: false
       tent_vias: true
-      use_protel_extensions: true
+      use_protel_extensions: false
       create_gerber_job_file: false
       disable_aperture_macros: true
       gerber_precision: 4.6
